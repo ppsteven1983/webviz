@@ -12,3 +12,4 @@ to test your changes against our internal version too.
 
 In the future we should disentangle this, and provide a public API for
 customizing webviz-core.
+
